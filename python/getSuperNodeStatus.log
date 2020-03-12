@@ -1,0 +1,104 @@
+2019-07-03 16:16:01,302 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:29] - INFO: Begin getting the status of the super node
+2019-07-03 16:16:02,598 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:37] - INFO: The current height is 414194
+2019-07-03 16:16:04,766 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:43] - INFO: The current ranking list has been obtained already
+2019-07-03 16:16:04,767 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:51] - INFO: Aggregate the unique ELA addresses used for voting
+2019-07-03 16:16:05,572 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 1/93 has been completed
+2019-07-03 16:16:07,447 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 2/93 has been completed
+2019-07-03 16:16:09,366 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 3/93 has been completed
+2019-07-03 16:16:11,087 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 4/93 has been completed
+2019-07-03 16:16:11,718 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 5/93 has been completed
+2019-07-03 16:16:12,349 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 6/93 has been completed
+2019-07-03 16:16:12,976 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 7/93 has been completed
+2019-07-03 16:16:13,618 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 8/93 has been completed
+2019-07-03 16:16:14,262 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 9/93 has been completed
+2019-07-03 16:16:15,172 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 10/93 has been completed
+2019-07-03 16:16:15,995 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 11/93 has been completed
+2019-07-03 16:16:16,559 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 12/93 has been completed
+2019-07-03 16:16:17,269 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 13/93 has been completed
+2019-07-03 16:16:18,244 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 14/93 has been completed
+2019-07-03 16:16:19,389 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 15/93 has been completed
+2019-07-03 16:16:20,199 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 16/93 has been completed
+2019-07-03 16:16:21,062 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 17/93 has been completed
+2019-07-03 16:16:21,842 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 18/93 has been completed
+2019-07-03 16:16:22,665 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 19/93 has been completed
+2019-07-03 16:16:23,584 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 20/93 has been completed
+2019-07-03 16:16:24,421 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 21/93 has been completed
+2019-07-03 16:16:25,361 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 22/93 has been completed
+2019-07-03 16:16:26,166 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 23/93 has been completed
+2019-07-03 16:16:27,178 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 24/93 has been completed
+2019-07-03 16:16:28,077 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 25/93 has been completed
+2019-07-03 16:16:28,951 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 26/93 has been completed
+2019-07-03 16:16:29,797 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 27/93 has been completed
+2019-07-03 16:16:32,311 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 28/93 has been completed
+2019-07-03 16:16:33,199 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 29/93 has been completed
+2019-07-03 16:16:34,038 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 30/93 has been completed
+2019-07-03 16:16:34,893 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 31/93 has been completed
+2019-07-03 16:16:35,743 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 32/93 has been completed
+2019-07-03 16:16:36,561 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 33/93 has been completed
+2019-07-03 16:16:37,305 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 34/93 has been completed
+2019-07-03 16:16:38,055 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 35/93 has been completed
+2019-07-03 16:16:38,803 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 36/93 has been completed
+2019-07-03 16:16:39,624 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 37/93 has been completed
+2019-07-03 16:16:40,317 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 38/93 has been completed
+2019-07-03 16:16:41,336 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 39/93 has been completed
+2019-07-03 16:16:42,164 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 40/93 has been completed
+2019-07-03 16:16:42,996 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 41/93 has been completed
+2019-07-03 16:16:43,889 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 42/93 has been completed
+2019-07-03 16:16:44,608 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 43/93 has been completed
+2019-07-03 16:16:45,425 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 44/93 has been completed
+2019-07-03 16:16:46,173 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 45/93 has been completed
+2019-07-03 16:16:46,959 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 46/93 has been completed
+2019-07-03 16:16:47,587 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 47/93 has been completed
+2019-07-03 16:16:48,532 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 48/93 has been completed
+2019-07-03 16:16:49,198 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 49/93 has been completed
+2019-07-03 16:16:49,918 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 50/93 has been completed
+2019-07-03 16:16:50,900 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 51/93 has been completed
+2019-07-03 16:16:51,895 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 52/93 has been completed
+2019-07-03 16:16:52,656 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 53/93 has been completed
+2019-07-03 16:16:53,398 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 54/93 has been completed
+2019-07-03 16:16:54,064 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 55/93 has been completed
+2019-07-03 16:16:54,709 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 56/93 has been completed
+2019-07-03 16:16:55,448 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 57/93 has been completed
+2019-07-03 16:16:56,499 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 58/93 has been completed
+2019-07-03 16:16:57,250 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 59/93 has been completed
+2019-07-03 16:16:58,202 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 60/93 has been completed
+2019-07-03 16:16:58,942 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 61/93 has been completed
+2019-07-03 16:16:59,788 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 62/93 has been completed
+2019-07-03 16:17:00,700 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 63/93 has been completed
+2019-07-03 16:17:01,326 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 64/93 has been completed
+2019-07-03 16:17:02,132 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 65/93 has been completed
+2019-07-03 16:17:03,280 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 66/93 has been completed
+2019-07-03 16:17:03,990 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 67/93 has been completed
+2019-07-03 16:17:04,571 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 68/93 has been completed
+2019-07-03 16:17:05,577 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 69/93 has been completed
+2019-07-03 16:17:06,328 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 70/93 has been completed
+2019-07-03 16:17:06,956 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 71/93 has been completed
+2019-07-03 16:17:07,788 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 72/93 has been completed
+2019-07-03 16:17:08,818 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 73/93 has been completed
+2019-07-03 16:17:10,383 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 74/93 has been completed
+2019-07-03 16:17:11,171 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 75/93 has been completed
+2019-07-03 16:17:11,826 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 76/93 has been completed
+2019-07-03 16:17:12,470 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 77/93 has been completed
+2019-07-03 16:17:13,099 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 78/93 has been completed
+2019-07-03 16:17:13,813 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 79/93 has been completed
+2019-07-03 16:17:14,398 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 80/93 has been completed
+2019-07-03 16:17:15,002 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 81/93 has been completed
+2019-07-03 16:17:15,590 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 82/93 has been completed
+2019-07-03 16:17:16,146 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 83/93 has been completed
+2019-07-03 16:17:16,686 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 84/93 has been completed
+2019-07-03 16:17:17,317 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 85/93 has been completed
+2019-07-03 16:17:18,015 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 86/93 has been completed
+2019-07-03 16:17:18,886 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 87/93 has been completed
+2019-07-03 16:17:19,581 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 88/93 has been completed
+2019-07-03 16:17:20,132 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 89/93 has been completed
+2019-07-03 16:17:20,660 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 90/93 has been completed
+2019-07-03 16:17:21,407 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 91/93 has been completed
+2019-07-03 16:17:21,894 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 92/93 has been completed
+2019-07-03 16:17:22,358 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:66] - INFO: 93/93 has been completed
+2019-07-03 16:17:22,358 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:69] - INFO: Get actual ELA used for voting and total unique voters
+2019-07-03 16:17:22,358 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:75] - INFO: Get total votes used for voting
+2019-07-03 16:17:22,985 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:90] - INFO: Write json file to disc
+2019-07-03 16:17:22,994 - /Users/lidongqing/WebstormProjects/DposNodeRPC/python/getSuperNodeStatus.py[line:95] - INFO: Updating the status of the super node has done
+
+
+

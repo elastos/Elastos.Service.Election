@@ -1,0 +1,11 @@
+module.exports = Object.freeze({
+    //dev
+     COOKIX_DPOS_NODE_SERVER_JSON_RPC_IP : "127.0.0.1",
+
+     COOKIX_DPOS_NODE_SERVER_JSON_RPC_PORT : "22336"
+
+    //test
+    // COOKIX_DPOS_NODE_SERVER_JSON_RPC_IP : "127.0.0.1",
+
+    // COOKIX_DPOS_NODE_SERVER_JSON_RPC_PORT : "21336"
+});
