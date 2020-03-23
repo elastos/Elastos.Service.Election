@@ -16,10 +16,16 @@ module.exports = {
     cron_restart: '6 6 * * *',
     max_memory_restart: '1G',
     env: {
-      NODE_ENV: 'development'
+      NODE_ENV: 'development',
+      DID_RESOLVER: 'http://api.elastos.io:22606'
+    },
+    env_test: {
+      NODE_ENV: 'test',
+      DID_RESOLVER: 'http://api.elastos.io:21606'
     },
     env_production: {
-      NODE_ENV: 'production'
+      NODE_ENV: 'production',
+      DID_RESOLVER: 'http://api.elastos.io:20606'
     }
   }]
 };
