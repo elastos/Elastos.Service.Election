@@ -1,15 +1,11 @@
 module.exports = Object.freeze({
-    //dev
-    COOKIX_DPOS_NODE_SERVER_JSON_RPC_IP: process.env.RPC_IP || "127.0.0.1",
 
-    COOKIX_DPOS_NODE_SERVER_JSON_RPC_PORT: process.env.RPC_PORT || "22336",
+    COOKIX_DPOS_NODE_SERVER_JSON_RPC_IP: process.env.RPC_IP || '127.0.0.1',
 
-    COOIX_DPOS_NODE_SERVER_DID_RESOLVER: process.env.DID_RESOLVER || "http://api.elastos.io:22606",
+    COOKIX_DPOS_NODE_SERVER_JSON_RPC_PORT: process.env.RPC_PORT || '20336',
 
-    COOIX_DPOS_NODE_SERVER_DID_AUTH: process.env.DID_AUTH || "Basic ZGlkOnRlc3RuZXQtZGlk",
+    COOIX_DPOS_NODE_SERVER_DID_RESOLVER: process.env.DID_RESOLVER || 'http://localhost:20606',
 
-    //test
-    // COOKIX_DPOS_NODE_SERVER_JSON_RPC_IP : "127.0.0.1",
+    COOIX_DPOS_NODE_SERVER_DID_AUTH: process.env.DID_AUTH || ''
 
-    // COOKIX_DPOS_NODE_SERVER_JSON_RPC_PORT : "21336"
 });
