@@ -38,8 +38,10 @@ router.post('/jwtget', function (req, res, next) {
         var sql = "SELECT * FROM didtoken WHERE json LIKE '%" + did + "%' ORDER BY updatetime DESC LIMIT 1 ";
         db.query(sql, function (err, result) {
             let re;
+            let exceptionMsg = null;
             if (typeof result[0] === "undefined" || result[0] == null) {
                 re = {};
+                exceptionMsg = "did not found";
             } else {
                 // console.log(result[0].json);
                 // var re = JSON.parse(result[0].json);
@@ -50,7 +52,7 @@ router.post('/jwtget', function (req, res, next) {
                 };
             }
             res.json(CommonUtils.encloseJson(ConstantMessagePara.COOKIX_DPOS_NODE_DEFAULT_SUCCESS_CODE,
-                ConstantMessagePara.COOKIX_DPOS_NODE_DEFAULT_MESSAGE_00001, re, "did not found"));
+                ConstantMessagePara.COOKIX_DPOS_NODE_DEFAULT_MESSAGE_00001, re, exceptionMsg));
         })
 
     } catch (exception) {

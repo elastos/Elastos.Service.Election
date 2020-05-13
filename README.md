@@ -83,7 +83,7 @@ Examples setting the environment variables under a Linux bash environment:
 
 ```
 $ export RPC_IP="127.0.0.1"
-$ export RPC_IP="20336"
+$ export RPC_PORT="20336"
 $ export RPC_PATH="/"
 $ export DID_RESOLVER="http://localhost:20606"
 $ export DID_AUTH=""
