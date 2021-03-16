@@ -138,3 +138,5 @@ For mainnet:
 $ npm run mainnet
 ```
 
+>  **__NOTE:__** the `run regnet`/`run testnet`/ `run mainnet` npm scripts only sets ***some*** of the configurations for the environments, you still need to set the DB related environment variables and the DID_AUTH setting for them. Also for `mainnet` you need to set the RPC_IP setting. 
+
